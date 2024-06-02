@@ -1,0 +1,119 @@
+Honda
+Civic 2021 2000
+Civic_Type_R  2021 200
+Accord 2020 2000
+City 2021 5000
+BRV 2021 5000
+CRV 2021 5000
+HRV 2021 5000
+WRV 2023 5000
+Brio 2012 5000
+Mobilio 2023 5000
+
+Toyota
+Camry 2021 2500
+86 2012 100
+Corolla 2022 2000
+Yaris 2018 5000
+Hilux 2019 1000
+Innova 2020 5000
+Fortuner 2020 5000
+Prius 2019 3000
+Agya 2019 5000
+Calya 2020 5000
+
+Mercedes_Benz
+C63 2019 10
+E63 2019 10
+S63 2019 10
+A45 2019 10
+CLS63 2012 10
+GLC63 2019 10
+GLE63 2019 10
+AMG_GT63 2019
+SLS_AMG 2012 2
+G63 2023 5
+
+Audi
+R8 2021 5
+TT_RS 2012 15
+RS4 2017 10
+RS5 2017 10
+RS6 2013 10
+RS7 2021 10
+A4 2020 10
+A5 2019 10
+A6 2018 10
+E_TRON_GT 2021 5
+
+Bugatti
+Divo 2019 2
+Chiron 2016 3
+Chiron_Super_Sport 2016 3
+Chiron_Pur_Sport 2016 3
+Veyron 2005 3
+Veyron_Super_Sport 2005 3
+Veyron_Grand_Sport 2005 3
+Centodieci 2022 1
+Bolide 2023 1
+La_Voiture_Noire 2019 1
+
+McLaren
+P1 2013 3
+570GT 2016 4
+650S 2014 5
+720S2017 5
+750S 2023 3
+600LT 2018 2
+Senna 2018 1
+F1 1992 1
+GT 2019 2
+GTS 2022 5
+
+Ford
+GT 2015 5
+Mustang 2015 10
+Mustang_Mach_E 2020 5
+Expedition 2021 30
+Ranger 2019 50
+Focus 2008 3000
+Fiesta 2008 3000
+Everest 2022 5000
+Bronco 2020 3000
+Escape 2022 5000
+
+Lamborghini
+Centenario 2016 3
+Aventador 2011 5
+Huracan 2014 6
+Gallardo 2003 6
+Murcielago 2001 6
+Urus 2018 6
+Revuelto 2023 4
+Veneno 2013 1
+Countach 2022 2
+Sian 2020 3
+
+Ferrari
+LaFerrari 2013 3
+Roma 2020 5
+Purosangue 2023 2
+F8_Tributo 2019 4
+458 2009 5
+488 2015 5
+812 2017 6
+SF90 2019 5
+FF 2011 8
+Daytona 2022 2
+
+Aston_Martin
+DB9 2004 6
+DB10 2015 3
+DB11 2016 3
+DB12 2023 2
+DBS 2018 2
+Vantage 2018 5
+Vanquish 2012 8
+DBX 2020 9
+Valkyrie 2021 2
+One_77 2009 2
